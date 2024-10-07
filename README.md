@@ -1,6 +1,12 @@
 # Dummy Object Revit Plugin
 
 This Revit plugin allows users to select any 3D element from the model and create a "dummy" object that replicates the original element’s geometry. The plugin supports copying complex geometries, such as solids, meshes, and instances.
+## ## Sample
+
+![Plugin Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/plugin_screenshot.png)
+
+
+![Plugin Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/plugin_screenshot.png)
 
 ## Features
 
