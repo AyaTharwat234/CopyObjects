@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>CopyElementAsDummy</Name>
+    <Assembly>CopyObjects.dll</Assembly>
+    <!-- Update to the actual DLL path -->
+    <AddInId>23456789-1234-5678-1234-567812345678</AddInId>
+    <FullClassName>DummyObject.CopyElementAsDummy</FullClassName>
+    <!-- Fully qualified class name -->
+    <VendorId>DummyObject</VendorId>
+    <VendorDescription>Your company description or website</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
